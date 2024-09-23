@@ -1,0 +1,2 @@
+# storeProject
+Independent project
